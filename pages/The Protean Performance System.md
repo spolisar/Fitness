@@ -10,4 +10,7 @@ tags:: bioneer, Adam Sinicki, functional
 	- Ultimate Back Fitness and Performance by Stuart McGill
 	- Knee Ability Zero by Ben Patrick
 	- The NEW Encyclopedia of Modern Bodybuilding by Arnold Schwarzenegger
-	-
+	- Conditioning for Dance by Eric Franklin
+	- Beyond Training by Ben Greenfield
+	- The Brain That Changes Itself by Norman Doidge
+	- Convict Conditioning by Paul Wade
