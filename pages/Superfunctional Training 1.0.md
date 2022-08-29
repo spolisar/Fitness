@@ -8,3 +8,5 @@ title:: Superfunctional Training 1.0
 	- Born to Run by Christopher Mcdougall
 	- The Four Hour Body by Tim Ferriss
 	- Sapiens by Yuval Noah Harari
+	- The Brain That Changes Itself by Norman Doidge
+	- Make
