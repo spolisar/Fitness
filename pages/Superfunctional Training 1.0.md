@@ -11,4 +11,7 @@ title:: Superfunctional Training 1.0
 	- The Brain That Changes Itself by Norman Doidge
 	- Make Your Brain Smarter by Sandra Bond Chapman
 	- Animal Moves by Darryl Edwards
-	- Bruce Lee: The Art of Expressing
+	- Bruce Lee: The Art of Expressing the Human Body
+	- Missing Microbes by Martin J. Blaser
+	- Peak by Dr. Marc Bubbs
+	-
