@@ -1,1 +1,1 @@
-- Is it better to consistently follow a yoga routine or to
+- Is it better to consistently follow a yoga routine or to work through a series of target poses and feel your way through movements based on the pose you're in?
