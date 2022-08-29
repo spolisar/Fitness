@@ -1,4 +1,4 @@
-tags:: bioneer, Adam Sinicki, functional
+tags:: bioneer, Adam Sinicki, functional, books
 
 - Recommended Reading
 	- Functional Training and Beyond by Adam Sinicki
