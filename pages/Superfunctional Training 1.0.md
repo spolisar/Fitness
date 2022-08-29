@@ -9,4 +9,6 @@ title:: Superfunctional Training 1.0
 	- The Four Hour Body by Tim Ferriss
 	- Sapiens by Yuval Noah Harari
 	- The Brain That Changes Itself by Norman Doidge
-	- Make
+	- Make Your Brain Smarter by Sandra Bond Chapman
+	- Animal Moves by Darryl Edwards
+	- Bruce Lee: The Art of Expressing
