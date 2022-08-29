@@ -1,5 +1,6 @@
 - Training against resistance without movement
-- Variations
+- Types
 	- Yielding
-		-
+		- Holding a position or weight for a set time or until weakening/dropping form
 	- Overcoming
+		- Trying to push or pull against an imo
