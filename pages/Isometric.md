@@ -1,0 +1,5 @@
+- Training against resistance without movement
+- Variations
+	- Yielding
+		-
+	- Overcoming
