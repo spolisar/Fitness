@@ -1,6 +1,6 @@
 title:: Superfunctional Training 1.0
 
--
+- tags::
 - Recommended Resources
 	- The Dark Fields by Alan Glynn
 	- Why We Sleep by Norman Doidge
@@ -14,4 +14,5 @@ title:: Superfunctional Training 1.0
 	- Bruce Lee: The Art of Expressing the Human Body
 	- Missing Microbes by Martin J. Blaser
 	- Peak by Dr. Marc Bubbs
-	- How to Save An Hour A Day
+	- How to Save An Hour A Day by Michael Heppell
+	- Thriving in the Gig Economy: Freelancing Online for Tech Professionals and Entrepreneurs by Adam Sinicki
