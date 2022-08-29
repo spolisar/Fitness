@@ -1,6 +1,7 @@
 title:: Superfunctional Training 1.0
 
-- tags::
+- tags:: bioneer, Adam Sinicki, functional
+-
 - Recommended Resources
 	- The Dark Fields by Alan Glynn
 	- Why We Sleep by Norman Doidge
