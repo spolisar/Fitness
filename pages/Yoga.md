@@ -1,0 +1,1 @@
+- Is it better to consistently follow a yoga routine or to
