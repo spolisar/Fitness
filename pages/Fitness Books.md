@@ -13,3 +13,5 @@ tags:: books
 - Functional Training by JC Santana
 - The Poliquin Principles by Charles Poliquin
 - Relax Into Stretch by Pavel Tsatsouline
+- Practical Guide of Physical Education by George Hebert
+-
