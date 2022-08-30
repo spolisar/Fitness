@@ -13,6 +13,8 @@ tags:: books
 - Smart Bodyweight Training by Matt Schifferle
 - Overcoming Isometrics by Matt Schifferle
 - Bodyweight Training for Martial Arts by Matt Schifferle
+- Grind-Style Calisthenics
+- Fitness Independence by Matt Schifferle
 - Functional Training by JC Santana
 - The Poliquin Principles by Charles Poliquin
 - Relax Into Stretch by Pavel Tsatsouline
@@ -24,4 +26,5 @@ tags:: books
 - The Way of the Iceman
 - Boundless by Ben Greenfield
 - Ultimate Back Fitness and Performance
--
+- The Art of Impossible by Steven Kotler
+- Breathing for Warriors
