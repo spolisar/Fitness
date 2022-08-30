@@ -7,9 +7,6 @@ tags:: bioneer, Adam Sinicki, functional, books
 		- Ready for anything
 		- rule of cool
 		- Gives you choices/options
-	-
--
--
 - Recommended Resources
 	- The Dark Fields by Alan Glynn
 	- Why We Sleep by Norman Doidge
