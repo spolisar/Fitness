@@ -13,7 +13,7 @@ tags:: books
 - Smart Bodyweight Training by Matt Schifferle
 - Overcoming Isometrics by Matt Schifferle
 - Bodyweight Training for Martial Arts by Matt Schifferle
-- Grind-Style Calisthenics
+- Grind-Style Calisthenics by Matt Schifferle
 - Fitness Independence by Matt Schifferle
 - Functional Training by JC Santana
 - The Poliquin Principles by Charles Poliquin
@@ -28,3 +28,5 @@ tags:: books
 - Ultimate Back Fitness and Performance
 - The Art of Impossible by Steven Kotler
 - Breathing for Warriors
+- Street Workout by Al Kavadlo & Danny Kavadlo
+- Zen Mind, Strong Body by Al Kavadlo
