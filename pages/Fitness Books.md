@@ -20,6 +20,7 @@ tags:: books
 - Relax Into Stretch by Pavel Tsatsouline
 - Super Joints by Pavel Tsatsouline
 - The Naked Warrior by Pavel Tsatsouline
+- The Quick and the Dead by Pavel
 - Practical Guide of Physical Education by George Hebert
 - The Wim Hof Method
 - Becoming the Iceman
@@ -33,4 +34,4 @@ tags:: books
 - Perfecting the Pistol Squat by Al Kavadlo
 - Get Strong by Al Kavadlo & Danny Kavadlo
 - Stretching your Boundaries by Al Kavadlo
-- Diamond-Cut Abs
+- Diamond-Cut Abs by Danny Kavadlo
