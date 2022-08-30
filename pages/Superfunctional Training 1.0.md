@@ -1,7 +1,7 @@
 title:: Superfunctional Training 1.0
 tags:: bioneer, Adam Sinicki, functional, books
 
--
+- Superfunctional
 -
 -
 - Recommended Resources
