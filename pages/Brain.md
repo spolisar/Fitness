@@ -1,3 +1,3 @@
 -
 - References
-	- supe
+	- [[Superfunctional Training 1.0]]
