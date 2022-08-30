@@ -11,3 +11,5 @@ tags:: books
 - Overcoming Isometrics by Matt Schifferle
 - Bodyweight Training for Martial Arts by Matt Schifferle
 - Functional Training by JC Santana
+- The Poliquin Principles by Charles Poliquin
+- Relax Into Stretch by Pavel Tsatsouline
