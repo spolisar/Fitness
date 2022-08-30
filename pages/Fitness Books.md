@@ -30,3 +30,7 @@ tags:: books
 - Breathing for Warriors
 - Street Workout by Al Kavadlo & Danny Kavadlo
 - Zen Mind, Strong Body by Al Kavadlo
+- Perfecting the Pistol Squat by Al Kavadlo
+- Get Strong by Al Kavadlo & Danny Kavadlo
+- Stretching your Boundaries by Al Kavadlo
+- Diamond-Cut Abs
