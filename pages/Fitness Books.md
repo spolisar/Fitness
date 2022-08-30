@@ -8,4 +8,6 @@ tags:: books
 - Convict Conditioning 2
 - Knee Ability Zero
 - Smart Bodyweight Training by Matt Schifferle
--
+- Overcoming Isometrics by Matt Schifferle
+- Bodyweight Training for Martial Arts by Matt Schifferle
+- Functional Training by JC Santana
