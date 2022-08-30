@@ -7,3 +7,5 @@ tags:: books
 - Convict Conditioning
 - Convict Conditioning 2
 - Knee Ability Zero
+- Smart Bodyweight Training by Matt Schifferle
+-
