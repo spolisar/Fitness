@@ -6,7 +6,8 @@ tags:: bioneer, Adam Sinicki, functional, books
 	- Why?
 		- Ready for anything
 		- rule of cool
-		-
+		- Gives you choices/options
+	-
 -
 -
 - Recommended Resources
