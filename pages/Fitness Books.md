@@ -19,4 +19,7 @@ tags:: books
 - Super Joints by Pavel Tsatsouline
 - The Naked Warrior by Pavel Tsatsouline
 - Practical Guide of Physical Education by George Hebert
+- The Wim Hof Method
+- Becoming the Iceman
+- The Way of the Iceman
 -
