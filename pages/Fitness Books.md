@@ -40,4 +40,5 @@ tags:: books
 - The Anatomy of Stretching by Brad Walker
 - Breathe: A Life in Flow by Rickson Gracie
 - Limitless by Jim Kwik
-- Foundation: Redefine Your Core, Conquer Back Pain, and Move with confidence by Eric Goodman and Peter
+- Foundation: Redefine Your Core, Conquer Back Pain, and Move with confidence by Eric Goodman and Peter Park with Diane Reverand
+-
