@@ -36,4 +36,5 @@ tags:: books
 - Stretching your Boundaries by Al Kavadlo
 - Diamond-Cut Abs by Danny Kavadlo
 - LIfespan: Why We Age and Why We Don't Have To by David A. Sinclair
--
+- The Ultimate Isometric Manual by Paul "Coach" Wade
+- The Anatomy of Stretching by Brad Walker
