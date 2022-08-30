@@ -5,8 +5,8 @@ tags:: books
 - Functional Training and Beyond
 - The Art of Expressing the Human Body
 - Tao of Jeet Kune Do by Bruce Lee
+- Jeet Kune Do by Bruce Lee
 - Chinese Gung Fu by Bruce Lee
--
 - Convict Conditioning
 - Convict Conditioning 2
 - Knee Ability Zero
@@ -16,5 +16,6 @@ tags:: books
 - Functional Training by JC Santana
 - The Poliquin Principles by Charles Poliquin
 - Relax Into Stretch by Pavel Tsatsouline
+-
 - Practical Guide of Physical Education by George Hebert
 -
