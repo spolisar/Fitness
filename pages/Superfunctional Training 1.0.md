@@ -14,8 +14,10 @@ tags:: bioneer, Adam Sinicki, functional, books
 	- Energy
 	- Advanced Physical Training
 	- Advanced Energy Training
-	-
-	-
+	- Advanced Mental Training
+	- Diet
+	- Integration
+	- Program
 - Recommended Resources
 	- The Dark Fields by Alan Glynn
 	- Why We Sleep by Norman Doidge
