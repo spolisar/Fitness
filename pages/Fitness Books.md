@@ -41,4 +41,5 @@ tags:: books
 - Breathe: A Life in Flow by Rickson Gracie
 - Limitless by Jim Kwik
 - Foundation: Redefine Your Core, Conquer Back Pain, and Move with confidence by Eric Goodman and Peter Park with Diane Reverand
-- Conditio
+- Conditioning for Dance by Eric Franklin
+-
