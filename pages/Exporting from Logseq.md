@@ -1,1 +1,2 @@
+- https://github.com/sawhney17/logseq-schrodinger
 -
