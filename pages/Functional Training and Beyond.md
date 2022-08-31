@@ -1,4 +1,4 @@
-tags:: bioneer, functional, Adam Sinicki
+tags:: bioneer, functional
 
 - Kettlebells
 -
