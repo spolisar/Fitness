@@ -51,7 +51,7 @@
   :block/updated-at 1661698294797}
  {:block/name "fitness books",
   :block/created-at 1661698514016,
-  :block/updated-at 1661893418926}
+  :block/updated-at 1661894767354}
  {:block/name "flow states",
   :block/created-at 1661893257917,
   :block/updated-at 1661893291242}
@@ -67,12 +67,15 @@
  {:block/name "later",
   :block/created-at 1661698294798,
   :block/updated-at 1661698294798}
+ {:block/name "meditation",
+  :block/created-at 1661893576906,
+  :block/updated-at 1661893576906}
  {:block/name "now",
   :block/created-at 1661698294798,
   :block/updated-at 1661698294798}
  {:block/name "superfunctional training 1.0",
   :block/created-at 1661739694972,
-  :block/updated-at 1661893087780}
+  :block/updated-at 1661894184710}
  {:block/name "the protean performance system",
   :block/created-at 1661740395678,
   :block/updated-at 1661740800739}
