@@ -7,7 +7,7 @@ tags:: bioneer, Adam Sinicki, functional, books
 		- Ready for anything
 		- rule of cool
 		- Gives you choices/options
-- ToC
+- Contents
 	- Superfunctional
 	- Brain
 	- Body
