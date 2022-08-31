@@ -1,5 +1,5 @@
 title:: Superfunctional Training 1.0
-tags:: bioneer, Adam Sinicki, functional, books
+tags:: bioneer, Adam Sinicki, functional
 
 - Superfunctional Training
 	- Training to be able to do things that you don't need to be able to do
