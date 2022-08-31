@@ -1,4 +1,4 @@
-tags:: bioneer, functional
+tags:: bioneer, functional, books
 
 - Kettlebells
 -
