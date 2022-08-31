@@ -1,4 +1,4 @@
-tags:: bioneer, functional, books
+tags:: bioneer, functional, books, Adam Sinicki
 
 - Kettlebells
 -
