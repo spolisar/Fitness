@@ -1,2 +1,3 @@
 - https://github.com/sawhney17/logseq-schrodinger
+- https://maggieappleton.com/garden-history
 -
