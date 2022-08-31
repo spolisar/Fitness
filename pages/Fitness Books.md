@@ -1,5 +1,3 @@
-tags:: books
-
 - [[Superfunctional Training 1.0]]
 - [[The Protean Performance System]]
 - [[Functional Training and Beyond]]
