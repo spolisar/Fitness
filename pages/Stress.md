@@ -1,2 +1,3 @@
 - References
+	- http://wiki.healthygamer.gg/en/Stress
 	-
