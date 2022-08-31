@@ -12,7 +12,7 @@
   :block/updated-at 1661745601584}
  {:block/name "aug 30th, 2022",
   :block/created-at 1661892445279,
-  :block/updated-at 1661892445279}
+  :block/updated-at 1661907202351}
  {:block/name "b",
   :block/created-at 1661698294799,
   :block/updated-at 1661698294799}
@@ -24,7 +24,7 @@
   :block/updated-at 1661698514022}
  {:block/name "brain",
   :block/created-at 1661893245734,
-  :block/updated-at 1661893333253}
+  :block/updated-at 1661907249694}
  {:block/name "c",
   :block/created-at 1661698294798,
   :block/updated-at 1661698294798}
@@ -51,31 +51,37 @@
   :block/updated-at 1661698294797}
  {:block/name "fitness books",
   :block/created-at 1661698514016,
-  :block/updated-at 1661894767354}
+  :block/updated-at 1661906944858}
  {:block/name "flow states",
   :block/created-at 1661893257917,
-  :block/updated-at 1661893291242}
+  :block/updated-at 1661907290683}
  {:block/name "functional",
   :block/created-at 1661740237673,
   :block/updated-at 1661740237673}
+ {:block/name "functional training and beyond",
+  :block/created-at 1661906513791,
+  :block/updated-at 1661907477624}
  {:block/name "in-progress",
   :block/created-at 1661698294798,
   :block/updated-at 1661698294798}
  {:block/name "isometric",
   :block/created-at 1661745394815,
-  :block/updated-at 1661745769773}
+  :block/updated-at 1661907310096}
  {:block/name "later",
   :block/created-at 1661698294798,
   :block/updated-at 1661698294798}
  {:block/name "meditation",
   :block/created-at 1661893576906,
-  :block/updated-at 1661893576906}
+  :block/updated-at 1661907326413}
+ {:block/name "muscle fascia",
+  :block/created-at 1661906691916,
+  :block/updated-at 1661906691916}
  {:block/name "now",
   :block/created-at 1661698294798,
   :block/updated-at 1661698294798}
  {:block/name "superfunctional training 1.0",
   :block/created-at 1661739694972,
-  :block/updated-at 1661894184710}
+  :block/updated-at 1661906730843}
  {:block/name "the protean performance system",
   :block/created-at 1661740395678,
   :block/updated-at 1661740800739}
