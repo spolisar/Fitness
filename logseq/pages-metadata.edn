@@ -25,9 +25,6 @@
  {:block/name "bioneer",
   :block/created-at 1661740237663,
   :block/updated-at 1661918180406}
- {:block/name "books",
-  :block/created-at 1661698514022,
-  :block/updated-at 1661698514022}
  {:block/name "brain",
   :block/created-at 1661893245734,
   :block/updated-at 1661907249694}
@@ -96,7 +93,7 @@
   :block/updated-at 1661698294798}
  {:block/name "meditation",
   :block/created-at 1661893576906,
-  :block/updated-at 1661907326413}
+  :block/updated-at 1661969395740}
  {:block/name "muscle fascia",
   :block/created-at 1661906691916,
   :block/updated-at 1661906691916}
@@ -106,6 +103,12 @@
  {:block/name "parkour",
   :block/created-at 1661959516311,
   :block/updated-at 1661959516311}
+ {:block/name "plyometric",
+  :block/created-at 1661969242985,
+  :block/updated-at 1661969242985}
+ {:block/name "stress",
+  :block/created-at 1661969634390,
+  :block/updated-at 1661969645448}
  {:block/name "superfunctional training 1.0",
   :block/created-at 1661739694972,
   :block/updated-at 1661906730843}
